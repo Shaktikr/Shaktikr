@@ -1,19 +1,25 @@
-- 👋 Hi, I’m @Shakti Kumar a recent graduate with a strong passion for data science and machine learning. 📊🔍
+## Shakti Kumar
 
-- 👀 I’m interested in ... Data Science, Graduated in Mechanical Engineering'22 from Government Engineering College, Banda, U.P. and currently pursuing M.Tech in Aerospace Engineering' 24 from I.I.T Kanpur'.
-- 🌱 Eager to learn and apply data science concepts to real-world problems.
-- 💡 Exploring various machine learning algorithms and techniques.
-- 📊 Curious about data visualization and storytelling through data.
-- 🤖 Interested in deep learning, product analysis and predictive modeling.
-- 🌱 I’m currently learning Neural Networks & deep learning.
+PhD scholar in Materials Science & Engineering at **IIT Kanpur**, working on creep and
+high-temperature deformation of alloys. B.Tech in Mechanical Engineering (REC Banda) and
+M.Tech in Aerospace Engineering (IIT Kanpur).
 
-- 📫 How to reach me ... My linkedIn profile
-- www.linkedin.com/in/
-shakti-kumar-423bb6176
+**What I work on**
 
+- Computational materials science: DFT (Quantum ESPRESSO), molecular dynamics (LAMMPS),
+  phase-field and machine-learning models for creep and sintering
+- Engineering analysis in Python and MATLAB
+- Teaching physics and mathematics, from school level to GATE
 
+**Featured repositories**
 
-<!---
-Shaktikr/Shaktikr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| Repository | What it is |
+|---|---|
+| [mse-computational-projects](https://github.com/Shaktikr/mse-computational-projects) | Eleven runnable, unit-tested projects: DFT, MD, phase-field and ML for creep and sintering |
+| [gyroid-fea-ml](https://github.com/Shaktikr/gyroid-fea-ml) | ML stress prediction for gyroid lattices from Abaqus FEA data (MSE643 course project) |
+| [ceramic-coating-thermal-fatigue](https://github.com/Shaktikr/ceramic-coating-thermal-fatigue) | Thermal-shock testing of alumina thermal barrier coatings (B.Tech project) |
+| [shaktikr.github.io](https://shaktikr.github.io) | Engineering services and free browser-based calculators |
+
+**Contact:** [kr.shakti13@gmail.com](mailto:kr.shakti13@gmail.com) ·
+[LinkedIn](https://www.linkedin.com/in/shaktikumar1310) ·
+[shaktikr.github.io](https://shaktikr.github.io)
